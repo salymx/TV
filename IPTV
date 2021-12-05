@@ -1,10 +1,72 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:7
-#EXT-X-MEDIA-SEQUENCE:587
-#EXTINF:6.006,
-l_3523521_587.ts
-#EXTINF:6.006,
-l_3529527_588.ts
-#EXTINF:6.006,
-l_3535533_589.ts
+#EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CIENMA 1 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60586.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CIENMA 5 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60605.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEAM 17 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/39240.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 10 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60574.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 11 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60571.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 12 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60565.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 13 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/52220.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 14 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/52213.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 15 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/39201.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 15 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/52210.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 16 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/39244.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 2 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60585.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 3 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/39334.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 4 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60643.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 5 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60633.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 6 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60575.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 7 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60626.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 8 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60615.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CINEMA 9 PPV
+http://albastream.fun:88/live/Esjona/aUB7me8K1m5GAZp9/60582.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",PPV BOXING 4
+http://meu02.cularu.com:8880/XNffZcdHVn/hdHbHCvuz5/29527?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SLING PPV 1 (English)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26339.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SLING PPV 2 (English)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26340.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SLING PPV 3 (English)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26341.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SLING PPV 4 (English)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26342.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",SLING PPV 5 (English)
+http://emtv1.xyz:80/NeHosting/rrty53gwty6422/26343.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 1 (EN) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241608?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 1 (ES) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241607?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 2 (EN) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241610?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 2 (ES) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241609?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 3 (EN) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241612?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 3 (ES) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241611?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 4 (EN) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241614?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 4 (ES) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241613?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 5 (EN) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241616?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 5 (ES) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241615?checkedby:iptvcat.com
