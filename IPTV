@@ -1,10 +1,21 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:7
-#EXT-X-MEDIA-SEQUENCE:175
-#EXTINF:6.006,
-l_1051055_175.ts
-#EXTINF:6.006,
-l_1057061_176.ts
-#EXTINF:6.006,
-l_1063067_177.ts
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 1 (EN) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241608?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 1 (ES) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241607?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 2 (EN) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241610?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 2 (ES) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241609?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 3 (EN) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241612?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 3 (ES) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241611?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 4 (EN) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241614?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 4 (ES) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241613?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 5 (EN) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241616?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",VIP PPV 5 (ES) HD
+http://king-tv.online:8080/tarek.soh/Dw7jM8cyFC/241615?checkedby:iptvcat.com
